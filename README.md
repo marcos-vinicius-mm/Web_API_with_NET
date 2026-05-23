@@ -1,5 +1,3 @@
-# Web API with NET
-
 # 🎬 Filmes API
 API REST desenvolvida com ASP.NET Core para gerenciamento de catálogo de filmes.
 
