@@ -51,8 +51,8 @@ Filmes_API/
 ```
 ---
 
-##⚙️ Configuração do Projeto
-#1️⃣ Clone o repositório
+## ⚙️ Configuração do Projeto
+# 1️⃣ Clone o repositório
 git clone <URL_DO_REPOSITORIO>
 
 #2️⃣ Acesse a pasta
